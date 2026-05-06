@@ -60,7 +60,7 @@ I enjoy building modern web applications that are **clean, performant, responsiv
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
 </p>
 
 ### Database
@@ -70,7 +70,7 @@ I enjoy building modern web applications that are **clean, performant, responsiv
 
 ### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" alt="Tools" />
 </p>
 
 ---
