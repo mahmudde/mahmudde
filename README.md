@@ -142,11 +142,6 @@ I enjoy building modern web applications that are **clean, performant, responsiv
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmudde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mahmudde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
